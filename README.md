@@ -7,5 +7,5 @@ node JS server assignment for theodinproject.
 
 hosted on port 8080
 if you cloned:-
->  type "node index.js" in your terminal within the directly and then
+>  type "node index.js" in your terminal inside the directory with "index.js" and then
 >  visit http://localhost:8080/
